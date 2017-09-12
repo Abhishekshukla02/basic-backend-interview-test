@@ -1,0 +1,40 @@
+{ "_id" : { "$oid" : "59b44f00f8bf0e7017000049" }, "date" : { "$date" : 1504389600000 }, "reference" : "2350536", "name" : "350536 (2000 QY69)", "speed" : "45264.9398681203", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e701700004a" }, "date" : { "$date" : 1504389600000 }, "reference" : "2422699", "name" : "422699 (2000 PD3)", "speed" : "56087.8471141618", "isHazardous" : "1" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e701700004b" }, "date" : { "$date" : 1504389600000 }, "reference" : "3553062", "name" : "(2010 XA11)", "speed" : "52141.8375785606", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e701700004c" }, "date" : { "$date" : 1504389600000 }, "reference" : "3558385", "name" : "(2011 EE17)", "speed" : "34767.8216140878", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e701700004d" }, "date" : { "$date" : 1504389600000 }, "reference" : "3781304", "name" : "(2017 QB35)", "speed" : "14880.2669632671", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e701700004e" }, "date" : { "$date" : 1504216800000 }, "reference" : "2003122", "name" : "3122 Florence (1981 ET3)", "speed" : "48724.6263305774", "isHazardous" : "1" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e701700004f" }, "date" : { "$date" : 1504216800000 }, "reference" : "2101955", "name" : "101955 Bennu (1999 RQ36)", "speed" : "55137.8354331575", "isHazardous" : "1" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e7017000050" }, "date" : { "$date" : 1504216800000 }, "reference" : "3781025", "name" : "(2017 QT17)", "speed" : "35908.9357780891", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e7017000051" }, "date" : { "$date" : 1504216800000 }, "reference" : "3781047", "name" : "(2017 QG18)", "speed" : "23684.8976419047", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e7017000052" }, "date" : { "$date" : 1504216800000 }, "reference" : "3172321", "name" : "(2004 BW1)", "speed" : "47058.1758211018", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e7017000053" }, "date" : { "$date" : 1504216800000 }, "reference" : "3263540", "name" : "(2004 XO29)", "speed" : "86484.3552492854", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e7017000054" }, "date" : { "$date" : 1504216800000 }, "reference" : "3662199", "name" : "(2014 DG)", "speed" : "44804.8895380736", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e7017000055" }, "date" : { "$date" : 1504216800000 }, "reference" : "3671134", "name" : "(2014 JS57)", "speed" : "23577.4431733644", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e7017000056" }, "date" : { "$date" : 1504216800000 }, "reference" : "3710160", "name" : "(2015 CX12)", "speed" : "85713.241835556", "isHazardous" : "1" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e7017000057" }, "date" : { "$date" : 1504303200000 }, "reference" : "3780642", "name" : "(2017 PS25)", "speed" : "22283.461228602", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e7017000058" }, "date" : { "$date" : 1504303200000 }, "reference" : "3781229", "name" : "(2017 QR32)", "speed" : "64939.1861450696", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e7017000059" }, "date" : { "$date" : 1504303200000 }, "reference" : "3781234", "name" : "(2017 QV32)", "speed" : "39435.5325908574", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e701700005a" }, "date" : { "$date" : 1504303200000 }, "reference" : "3758838", "name" : "(2016 RT)", "speed" : "71633.2812947348", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e701700005b" }, "date" : { "$date" : 1504303200000 }, "reference" : "3759285", "name" : "(2016 RG20)", "speed" : "36605.4091864052", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e701700005c" }, "date" : { "$date" : 1504303200000 }, "reference" : "3767037", "name" : "(2017 BD29)", "speed" : "45439.6085015836", "isHazardous" : "1" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e701700005d" }, "date" : { "$date" : 1504303200000 }, "reference" : "3776847", "name" : "(2017 NL6)", "speed" : "49083.377255802", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e701700005e" }, "date" : { "$date" : 1504044000000 }, "reference" : "2006053", "name" : "6053 (1993 BW3)", "speed" : "59516.6209136204", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e701700005f" }, "date" : { "$date" : 1504044000000 }, "reference" : "3780734", "name" : "(2017 QN1)", "speed" : "37876.1345149093", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e7017000060" }, "date" : { "$date" : 1504044000000 }, "reference" : "3781312", "name" : "(2017 QR35)", "speed" : "24865.9518683528", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e7017000061" }, "date" : { "$date" : 1504044000000 }, "reference" : "2410627", "name" : "410627 (2008 RG1)", "speed" : "61837.75284052", "isHazardous" : "1" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e7017000062" }, "date" : { "$date" : 1504044000000 }, "reference" : "3172320", "name" : "(2004 BV1)", "speed" : "31071.3956044332", "isHazardous" : "1" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e7017000063" }, "date" : { "$date" : 1504044000000 }, "reference" : "3780776", "name" : "(2017 QP2)", "speed" : "27023.8280916655", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e7017000064" }, "date" : { "$date" : 1504044000000 }, "reference" : "3461178", "name" : "(2009 KW2)", "speed" : "16132.4605897248", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e7017000065" }, "date" : { "$date" : 1504044000000 }, "reference" : "3555208", "name" : "(2011 AM37)", "speed" : "42315.3164923603", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e7017000066" }, "date" : { "$date" : 1504044000000 }, "reference" : "3733138", "name" : "(2015 VK1)", "speed" : "42130.1842319322", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e7017000067" }, "date" : { "$date" : 1504044000000 }, "reference" : "3758926", "name" : "(2016 RT1)", "speed" : "73522.8763802341", "isHazardous" : "1" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e7017000068" }, "date" : { "$date" : 1504044000000 }, "reference" : "2483560", "name" : "483560 (2004 BV1)", "speed" : "31071.4069102981", "isHazardous" : "1" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e7017000069" }, "date" : { "$date" : 1504130400000 }, "reference" : "2010115", "name" : "10115 (1992 SK)", "speed" : "65852.5288278247", "isHazardous" : "1" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e701700006a" }, "date" : { "$date" : 1504130400000 }, "reference" : "3779471", "name" : "(2017 PQ24)", "speed" : "49745.0447055626", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e701700006b" }, "date" : { "$date" : 1504130400000 }, "reference" : "3780766", "name" : "(2017 QF2)", "speed" : "22668.9185056428", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e701700006c" }, "date" : { "$date" : 1504130400000 }, "reference" : "2418416", "name" : "418416 (2008 LV16)", "speed" : "46197.3518459413", "isHazardous" : "1" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e701700006d" }, "date" : { "$date" : 1504130400000 }, "reference" : "3608932", "name" : "(2012 SY20)", "speed" : "29684.5919904981", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e701700006e" }, "date" : { "$date" : 1504130400000 }, "reference" : "3726789", "name" : "(2015 RE2)", "speed" : "63893.0276960951", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e701700006f" }, "date" : { "$date" : 1504130400000 }, "reference" : "3647271", "name" : "(2013 RE21)", "speed" : "12968.5909784976", "isHazardous" : "" }
+{ "_id" : { "$oid" : "59b44f01f8bf0e7017000070" }, "date" : { "$date" : 1504130400000 }, "reference" : "3780733", "name" : "(2017 QQ1)", "speed" : "36563.7803721228", "isHazardous" : "" }
