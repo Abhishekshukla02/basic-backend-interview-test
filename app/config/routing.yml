@@ -1,0 +1,25 @@
+api_call:
+    path:     /
+    defaults: { _controller: AppBundle:Default:index }
+
+create_api_call:
+    path:     /neo/create
+    defaults: { _controller: AppBundle:Default:addRNeoData }
+
+getalldata_api_call:
+    path:     /neo/hazardous
+    defaults: { _controller: AppBundle:Default:getHazardousData }
+
+fastestHazdata_api_call:
+    path:     /neo/fastest
+    defaults: { _controller: AppBundle:Default:getFastestHazardousData }
+
+bestmonth_api_call:
+    path:     /neo/best-month
+    defaults: { _controller: AppBundle:Default:getNeoBestMonthData }
+
+bestyear_api_call:
+    path:     /neo/best-year
+    defaults: { _controller: AppBundle:Default:getNeoBestYearData }
+
+
